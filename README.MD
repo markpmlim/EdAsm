@@ -1,7 +1,7 @@
 The disassembled source code of the programs of the PRODOS ASSEMBLER TOOLS RELEASE 1.1 are
-distributed in the form of an 800K Universal disk image (.2mg). 
+distributed in the form of an 800K Universal disk image (.2mg). The relevant source files are in the EDASM.SRC folder and are meant for viewing purposes only.
 
-This disassembled source codes are arranged in 5 folders.
+The disassembled source codes are arranged in 5 folders.
 
 If you wish to assemble any of the 5 programs,
 1) you should have a copy of the PRODOS Assembler Tools,
