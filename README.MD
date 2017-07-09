@@ -29,3 +29,9 @@ The following are useful references:
 5) SWEET16 by Steve Wozniak
 
 When you peruse through the source codes you will notice that many data areas are filled with what seems to be garbage. These are actually random data created when the assembler encounters a particular form of the DS directive in original source. I had left them as-is so that a byte-to-byte comparison can be made between the new binaries and the original binaries.
+
+Some weblinks:
+https://sites.google.com/site/trashgod/edasm
+https://groups.google.com/forum/#!msg/comp.sys.apple2.programmer/loRPy3hiUvw/YuqcYU5SHhgJ
+https://groups.google.com/forum/#!topic/comp.sys.apple2.programmer/-gv6PdWl77Y
+https://groups.google.com/forum/#!topic/comp.sys.apple2.programmer/6Pdl91-w1PQ
